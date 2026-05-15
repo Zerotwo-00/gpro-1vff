@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177],{4789:(a,e,l)=>{Promise.resolve().then(l.t.bind(l,2316,23)),Promise.resolve().then(l.bind(l,814)),Promise.resolve().then(l.t.bind(l,8830,23))},8830:()=>{},2316:a=>{a.exports={style:{fontFamily:"'Tajawal', 'Tajawal Fallback'",fontStyle:"normal"},className:"__className_a9af04",variable:"__variable_a9af04"}}},a=>{var e=e=>a(a.s=e);a.O(0,[633,814,441,517,358],()=>e(4789)),_N_E=a.O()}]);
+//# sourceMappingURL=layout-fd03aa3bc5d0c0b7.js.map
